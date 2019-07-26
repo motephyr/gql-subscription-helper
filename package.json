@@ -1,5 +1,5 @@
 {
-  "name": "dataloader-helper",
+  "name": "gql-client-subscription-helper",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -13,9 +13,7 @@
   "author": "Mark Wu",
   "license": "ISC",
   "prepublish": "tsc",
-  "dependencies": {
-    "dataloader": "^1.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^24.0.15",
     "jest": "^24.8.0",
