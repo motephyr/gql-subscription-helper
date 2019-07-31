@@ -1,5 +1,5 @@
 {
-  "name": "gql-client-subscription-helper",
+  "name": "gql-subscription-helper",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
